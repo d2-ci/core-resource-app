@@ -1,0 +1,9 @@
+{
+  "name": "core-resource-app",
+  "version": "30.0.0",
+  "description": "App that contains assets and scripts for the core apps",
+  "main": "webpack.config.lodash-functional.js",
+  "author": "Mark Polak",
+  "license": "BSD-3-Clause",
+  "homepage": "https://github.com/dhis2/core-resource-app#readme"
+}
