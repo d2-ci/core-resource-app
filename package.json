@@ -1,0 +1,6 @@
+{
+  "name": "core-resource-app",
+  "description": "App that contains assets and scripts for the core apps",
+  "license": "BSD-3-Clause",
+  "version": "31.0.0"
+}
