@@ -1,0 +1,20 @@
+{
+  "launch_path": "index.html",
+  "default_locale": "en",
+  "activities": {
+    "dhis": {
+      "href": "*"
+    }
+  },
+  "appType": "RESOURCE",
+  "name": "core-resource-app",
+  "version": "31.0.0",
+  "description": "App that contains assets and scripts for the core apps",
+  "developer": {
+    "name": "Mark Polak"
+  },
+  "icons": {
+    "48": "icon.png"
+  },
+  "manifest_generated_at": "Thu Feb 20 2020 18:41:10 GMT+0000 (UTC)"
+}
