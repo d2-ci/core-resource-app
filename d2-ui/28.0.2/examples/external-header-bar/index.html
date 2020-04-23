@@ -1,0 +1,15 @@
+<!doctype html>
+<html lang="en">
+    <div id="header"></div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/react/15.3.0/react-with-addons.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/react/15.3.0/react-dom.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/rxjs/4.1.0/rx.lite.min.js"></script>
+    <script src="d2-browser.js"></script>
+    <script src="header-bar.js"></script>
+    <script type="text/javascript"></script>
+    <script>
+        Dhis2HeaderBar.initHeaderBar(
+            document.querySelector('#header'),
+            'http://localhost:8080/dhis/api'
+        );
+    </script>
